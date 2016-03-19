@@ -6,7 +6,7 @@ It divides image colors into X number of groups and counts their centers. Then i
 
 Main GUI:
 
-
+![Alt text](/readmeImages/gui.jpg "Optional Title")
 
 EXAMPLES:
 Changing to 16 colors:
