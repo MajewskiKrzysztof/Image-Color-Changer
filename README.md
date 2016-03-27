@@ -17,7 +17,7 @@ Algorithm:
 
 Main GUI:
 
-![Alt text](/readmeImages/gui.jpg "Optional Title")
+
 
 EXAMPLES:
 Changing to 16 colors:
