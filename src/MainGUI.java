@@ -58,7 +58,6 @@ public class MainGUI extends Application {
         Scene scene = new Scene(layout);
         window.sizeToScene();
         window.setScene(scene);
-//        window.setResizable(false);
         window.show();
     }
 

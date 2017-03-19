@@ -25,9 +25,8 @@ public class Converter {
     }
 
     private void createGroups(int groupCount) {
-        for (int i = 0; i < groupCount; i++) {
+        for (int i = 0; i < groupCount; i++)
             groups.add(new ColorGroup());
-        }
     }
 
     private void assignColors() {
